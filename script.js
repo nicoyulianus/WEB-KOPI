@@ -1,4 +1,5 @@
 // TOGGLE CLASS ACTIVE
+
 const navbarNav = document.querySelector(".navbar-nav");
 //ketika hamburger menu di klik
 document.querySelector("#hamburger-menu").onclick = () => {
